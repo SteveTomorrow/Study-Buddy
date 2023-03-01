@@ -64,14 +64,14 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+<img src="https://user-images.githubusercontent.com/108814937/222061309-dff6cacd-9c50-496d-b310-d221f2cb9a29.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://user-images.githubusercontent.com/108814937/222061480-70c3db41-de91-4d07-9ac4-059c81fec8a8.png">  
 </td>
 </table>
 
