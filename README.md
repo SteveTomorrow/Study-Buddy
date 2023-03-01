@@ -75,4 +75,3 @@ python manage.py runserver
 </td>
 </table>
 
-
