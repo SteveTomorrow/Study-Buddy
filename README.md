@@ -8,13 +8,13 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/SteveTomorrow/Study-Buddy.git
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd StudyBud-master
 
 ```
 
